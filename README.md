@@ -1,13 +1,16 @@
 # VBA-challenge
 Module 2 Challenge
 
-Screenshot of 2018 tab:
+Screenshot of 2018 tab with results:
+
 ![Results](2018_results.png)
 
-Screenshot of 2019 tab:
+Screenshot of 2019 tab with results:
+
 ![Results](2019_results.png)
 
-Screenshot of 2020 tab:
+Screenshot of 2020 tab with results:
+
 ![Results](2020_results.png)
 
 
